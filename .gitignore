@@ -1,0 +1,16 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+.python-version
+
+# Slides & Books
+Books/
+Slides/
+Syllabus_CSI_4140_5140_2026_Winter.pdf
